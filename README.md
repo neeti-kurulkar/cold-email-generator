@@ -19,7 +19,5 @@ You are the Co-ordinator of the Training and Placement Cell at PES Modern Colleg
    ```
    
 
-Copyright (C) Codebasics Inc. All rights reserved.
-
-**Additional Terms:**
-This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
+## Final Application: 
+![img.png](imgs/cold-email-generator.png)
